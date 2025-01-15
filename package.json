@@ -1,0 +1,17 @@
+{
+  "name": "e-commerce_project",
+  "version": "1.0.0",
+  "description": "e-commerce about cycling",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "FrontEnd",
+    "SASS",
+    "Gulp",
+    "NPM"
+  ],
+  "author": "Giancarlo Peña",
+  "license": "ISC"
+}
