@@ -4,7 +4,7 @@
   "description": "e-commerce about cycling",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "sass": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
     "FrontEnd",
@@ -13,5 +13,8 @@
     "NPM"
   ],
   "author": "Giancarlo Peña",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "sass": "^1.83.4"
+  }
 }
